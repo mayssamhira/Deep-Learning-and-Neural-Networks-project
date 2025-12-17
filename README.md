@@ -40,24 +40,6 @@ print(f"Sentiment: {label}, probability: {prob:.4f}")
 
 
 
----
-
-Results
-
-Test Accuracy: ~0.87
-
-Confusion matrix and ROC curve included in notebook
-
-Preprocessing is key for performance
-
-Files
-
-IMDB Dataset.csv → dataset
-
-IMDb_Sentiment_Analysis.ipynb → Colab notebook
-
-README.md → this file
-
 👩‍💻 Author
 
 Mayssa Mhira
